@@ -1,0 +1,14 @@
+beautifulsoup4==4.12.3
+certifi==2024.6.2
+charset-normalizer==3.3.2
+docutils==0.21.2
+idna==3.7
+Kivy==2.3.0
+Kivy-Garden==0.1.5
+kivymd==0.104.1
+pillow==10.3.0
+psycopg2==2.9.9
+Pygments==2.18.0
+requests==2.32.3
+soupsieve==2.5
+urllib3==2.2.1
