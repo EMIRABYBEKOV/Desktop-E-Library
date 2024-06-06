@@ -1,4 +1,4 @@
-# Dekstop E-Library
+# Dekstop E-Library 2021
 
 Elibrary_App is a Python-based application developed using the Kivy framework and KivyMD for the user interface. This application allows users to manage an electronic library, including parsing book information, managing icons, and saving parsed images.
 
@@ -64,7 +64,7 @@ python app/lib_python_file.py
 
 To be honest, the app doesn't work properly due to outdated versions and compatibility issues. I wrote the project in 2021 and never managed to configure everything correctly. I decided to keep the project as a repository to showcase my past skills this year.
 
-##Licence
+#Licence
 
 This project is licensed under the MIT License.
 
