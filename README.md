@@ -14,7 +14,7 @@ markdown
 Elibrary_App is a Python-based application developed using the Kivy framework and KivyMD for the user interface. This application allows users to manage an electronic library, including parsing book information, managing icons, and saving parsed images.
 
 ## Project Structure
-
+```
 Elibrary_App/
 ├── Library/
 ├── app/
@@ -27,7 +27,7 @@ Elibrary_App/
 │ ├── lib_python_file.py
 │ └── save_pasedimages.py
 └── requirements.txt
-
+```
 
 Where lib_python_file.py is main fiel to start and activate dekstop application. Other files are used to parse and save information about books from websites inculding names, images, years...
 
